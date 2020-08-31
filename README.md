@@ -37,7 +37,7 @@ Laravel fundamentals and masterclass course. Covers almost everything the framew
 
 Click to open bigger image
 
-![How should you take courses graph](./What-Should-I-Learn.png)
+![How should you take courses graph](https://github.com/piotr-jura-udemy/piotr-jura-udemy/blob/master/What-Should-I-Learn.png)
 
 ## Eductional material :green_book:
 
