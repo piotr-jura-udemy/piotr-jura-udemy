@@ -22,3 +22,5 @@ You'll create 2 apps, the simple blog platform and a Trello clone.
 [Laravello Source Code - a Trello clone in Vue & Laravel](https://github.com/piotr-jura-udemy/laravel-graphql-course-trello-clone)
 
 ### [Master Laravel with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/?couponCode=GITHUB)
+
+### [Master Laravel PHP for Beginners and Intermediate](https://www.udemy.com/course/laravel-beginner-fundamentals/?couponCode=GITHUB)
