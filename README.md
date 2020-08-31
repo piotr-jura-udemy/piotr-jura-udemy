@@ -35,7 +35,9 @@ Laravel fundamentals and masterclass course. Covers almost everything the framew
 
 ## In what order should I take your courses? :rowboat:
 
+Click to open bigger image
 
+![How should you take courses graph](./What-Should-I-Learn.png)
 
 ## Eductional material :green_book:
 
