@@ -23,4 +23,18 @@ You'll create 2 apps, the simple blog platform and a Trello clone.
 
 ### [Master Laravel with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/?couponCode=GITHUB)
 
+Learn Vue.js - simplest yet very powerful of the JS frameworks out there. Build a simple booking app, a SPA - like booking.com/AirBnb.
+
+[Course Source Code](https://github.com/piotr-jura-udemy/laravel-vue-spa-course)
+
 ### [Master Laravel PHP for Beginners and Intermediate](https://www.udemy.com/course/laravel-beginner-fundamentals/?couponCode=GITHUB)
+
+Laravel fundamentals and masterclass course. Covers almost everything the framework has to offer.
+
+[Course Source Code](https://github.com/piotr-jura-udemy/laravel-course)
+
+## Eductional material :green_book:
+
+### [Laravel cheat-sheet](https://github.com/piotr-jura-udemy/laravel-cheat-sheet)
+
+A Laravel Cheat Sheet - simple collection of additional Laravel explanations helpful when taking the course, but also for everyone else not enrolled. A little bit of shortcuts, code chunks, tables and diagrams.
