@@ -35,7 +35,7 @@ Laravel fundamentals and masterclass course. Covers almost everything the framew
 
 ## In what order should I take your courses? :rowboat:
 
-Click to open bigger image
+Click to open bigger image. Now that it's a decision you really have to think about - but people sometimes ask me that. So, if you really need to make a choice, here it is:
 
 ![How should you take courses graph](https://github.com/piotr-jura-udemy/piotr-jura-udemy/blob/master/What-Should-I-Learn.png)
 
