@@ -4,7 +4,7 @@
 
 I'm Piotr Jura, Udemy Instructor.
 
-Follow me on Twitter [here](https://twitter.com/piotr_jura)
+Follow me on Twitter [here](https://twitter.com/piotr_jura) :full_moon_with_face:
 
 🔭 You can find the source code of my Udemy courses here and other stuff you might find interesting or useful if you're into PHP/Symfony/Laravel/Vue/React or web development in general.
 
