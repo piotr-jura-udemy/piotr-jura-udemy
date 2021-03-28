@@ -12,6 +12,10 @@ Follow me on Twitter [here](https://twitter.com/piotr_jura) :full_moon_with_face
 
 Click on course name to grab it.
 
+### [Master NestJS - The JavaScript Node.js Framework](https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?referralCode=C8A3F83982053A5E44C0)
+
+Learn NestJS, powerful and versatile JavaScript framework. A great replacement for Express!
+
 ### [Master Laravel with GraphQL, Vue.js and Tailwind](https://www.udemy.com/course/master-laravel-with-graphql-vuejs-and-tailwind/?referralCode=CE3B5297B3614EFA884A)
 
 In this course you'll learn the basics of using Laravel together with Vue.js and Lighthouse to create a SPA backed by GraphQL server.
